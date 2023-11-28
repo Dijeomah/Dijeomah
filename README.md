@@ -21,11 +21,13 @@
 
 ---
 
-### :man_technologist: About Me: I am a Backend Engineer [Laravel] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+### :man_technologist: About Me: I am a Backend Engineer [Laravel] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <code>127.0.0.1</code>.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Frontend Development (Angular & Vue).
+
+- :cloud: Proficient in | AWS | Digital Ocean Droplets | Docker.  
 
 - :zap: In my free time, I watch tutorials on YouTube and read tech articles.
 
